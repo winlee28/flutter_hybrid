@@ -1,0 +1,9 @@
+include ':app'
+
+
+setBinding(new Binding([gradle: this]))
+evaluate(new File(
+        settingsDir.parentFile,
+        //flutter_module即为创建的模块名称
+        'flutter_module/.android/include_flutter.groovy'
+))
