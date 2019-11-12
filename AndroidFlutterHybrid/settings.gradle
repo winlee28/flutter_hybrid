@@ -7,3 +7,8 @@ evaluate(new File(
         //flutter_module即为创建的模块名称
         'flutter_module/.android/include_flutter.groovy'
 ))
+include ':flutter_module'
+project(':flutter_module').projectDir = new File('../flutter_module')
+
+include ':flutter_module'
+project(':flutter_module').projectDir = new File('../flutter_module')

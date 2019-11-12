@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.activity_main);
 
-        FlutterView flutterView = Flutter.createView(this, getLifecycle(), "route10-");
+        FlutterView flutterView = Flutter.createView(this, getLifecycle(), "route1");
         setContentView(flutterView);
 
 //        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
