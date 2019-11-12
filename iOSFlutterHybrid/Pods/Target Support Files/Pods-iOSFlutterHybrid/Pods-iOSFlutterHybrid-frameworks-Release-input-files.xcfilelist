@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-iOSFlutterHybrid/Pods-iOSFlutterHybrid-frameworks.sh
+${PODS_ROOT}/../../flutter_module/.ios/Flutter/engine/Flutter.framework
+${PODS_ROOT}/../../flutter_module/.ios/Flutter/App.framework
