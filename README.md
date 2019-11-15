@@ -6,6 +6,6 @@
 
 * iOS原生项目集成Flutter模块（已完成）
 
-* Android项目与Flutter模块之间的通信链接（TODO）
+* Android项目与Flutter模块之间的通信链接（已完成）
 
 * iOS项目与Flutter模块之间的通信链接（TODO）
